@@ -63,7 +63,7 @@ v0.0.1 ⋮ 19/06/2023
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/ImSysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/ImSysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/ImSysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+  <img src="https://img.shields.io/github/license/ImSysys242/DTC.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/ImSysys242/DTC.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/ImSysys242/DTC.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
